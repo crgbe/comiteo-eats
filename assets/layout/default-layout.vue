@@ -33,7 +33,9 @@
                 <div class="mx-auto max-w-4xl py-6 sm:px-6 lg:px-8">
                     <slot
                         @selected-breadcrumb="test"
-                    />
+                    >
+
+                    </slot>
                 </div>
             </main>
         </div>

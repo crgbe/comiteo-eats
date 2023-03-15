@@ -21,7 +21,7 @@ const routes = [
         name: 'restaurants_show',
         component: RestaurantShow,
         meta: {
-            label: 'Home',
+            label: 'Restaurant',
             icon: null,
             breadcrumb: ['home'],
         },

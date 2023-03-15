@@ -3,7 +3,7 @@
         
         <!-- Column -->
         <div
-            v-if="this.restaurant !== null"
+            v-if="restaurant !== null"
             class="my-1 px-1 w-full lg:my-4 lg:px-4"
         >
             <article class="overflow-hidden rounded-lg shadow-lg">
